@@ -1,0 +1,2 @@
+patient_id,provider_id,age_years,sex,state,visit_type,height_cm,weight_kg,bmi,temperature_degrees_celsius,pulse_bpm,respiratory_rate_breaths_per_minute,pain_scale_1_10__10_is_worst,total_cholesterol_mg_dl,white_blood_cell_count_cmm,vitamin_d_ng_ml,sodium_meq_l,albumin_g_dl,disease_at_admission,comorbidities
+1,2,62,female,Colorado,Surgery,185,99,15.4,24.3,4,32,8,950,5493,33,164,3.31,Pneumonia,Heart Disease
