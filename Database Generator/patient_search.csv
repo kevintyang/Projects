@@ -1,2 +1,0 @@
-patient_id,provider_id,age_years,sex,state,visit_type,height_cm,weight_kg,bmi,temperature_degrees_celsius,pulse_bpm,respiratory_rate_breaths_per_minute,pain_scale_1_10__10_is_worst,total_cholesterol_mg_dl,white_blood_cell_count_cmm,vitamin_d_ng_ml,sodium_meq_l,albumin_g_dl,disease_at_admission,comorbidities
-4,7,9,female,Oregon,Office Visit,167,129,36.66,19.39,60,14,5,1999,2875,29,80,1.54,Alzheimers,Obesity
